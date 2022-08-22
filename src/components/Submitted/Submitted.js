@@ -4,7 +4,7 @@ import './Submitted.css'
 const Submitted=({displayData})=>{
     return (
         <div className='form-status-container'>
-            <h1>Form submission success</h1>
+            <h1>Form submitted successfully</h1>
             <div className='display-data'>    
                 <b>Name:</b>
                 <p>{displayData.Name}</p>
