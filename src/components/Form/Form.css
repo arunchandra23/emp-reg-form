@@ -4,6 +4,8 @@
     --medP:rgb(249, 168, 182);
     --lightP: rgb(248, 225, 228);
   }
+
+
 .container{
     background-color: var(--lightP);
     width: 1000px;
@@ -60,6 +62,7 @@
     border-radius: 5px;
     border: none;
     justify-self: center;
+    
 }
 #file-upload{
     width: 200px;
