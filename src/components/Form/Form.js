@@ -60,7 +60,7 @@ const Form= ({passDetails}) => {
                             </select>
                         
                         
-                            <input type="file" id="file-upload" />
+                            <input type="file" id="file-upload"  />
                         
                         
                         <button className='submit-btn' type="submit">Submit</button>
